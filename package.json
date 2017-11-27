@@ -1,0 +1,28 @@
+{
+  "name": "angular2-requirejs",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "@angular/common": "^4.0.1",
+    "@angular/compiler": "^4.0.1",
+    "@angular/core": "^4.0.1",
+    "@angular/forms": "^4.0.1",
+    "@angular/http": "^4.0.1",
+    "@angular/platform-browser": "^4.0.1",
+    "@angular/platform-browser-dynamic": "^4.0.1",
+    "@angular/router": "^4.0.1",
+    "core-js": "^2.4.1",
+    "normalize-css": "^2.3.1",
+    "reflect-metadata": "^0.1.8",
+    "requirejs": "2.3.2",
+    "rxjs": "5.0.0-beta.12",
+    "ts-helpers": "^1.1.1",
+    "zone.js": "^0.8.5"
+  },
+  "devDependencies": {
+    "lite-server": "2.2.2"
+  }
+}
